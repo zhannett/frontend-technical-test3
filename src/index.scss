@@ -8,3 +8,35 @@ body {
     background-color: white;
 }
 
+
+
+.row {
+  text-align: center;
+}
+h1, h5, h6 {
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  color: #999;
+}
+h1 {
+  font-size: 24px;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  li {
+
+  }
+}
+
+.btn {
+  font-size: 16px;
+  color: #7fb485;
+  margin: 16px 0;
+  border-color: #7fb485;
+}
+
+a {
+  text-align: center;
+  color: #7fb485;
+}
