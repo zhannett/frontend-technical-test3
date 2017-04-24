@@ -20,3 +20,4 @@ angular
   .component('app', hello)
   .component('test01', test01)
   .component('test02', test02);
+ 
